@@ -1,7 +1,7 @@
 [![MasterHead](https://pin.it/jFkxRkv)]
 <h1 align="center">Hi 👋, I'm Kowiti Nelson</h1>
 <h3 align="center">A passionate junior software developer</h3>
-<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/1DB9mm-9dvvzcmqRSpx4iiEV93Z-2wMkV/view?usp=share_link"
+<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/1DB9mm-9dvvzcmqRSpx4iiEV93Z-2wMkV/view?usp=share_link">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kowitinelson2&label=Profile%20views&color=0e75b6&style=flat" alt="kowitinelson2" /> </p>
 
