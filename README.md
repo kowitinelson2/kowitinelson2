@@ -1,4 +1,5 @@
-[![MasterHead](https://pin.it/jFkxRkv)]
+[![MasterHead](https://i.ibb.co/FWw3T3v/Sunset-On-A-Beach-GIF.gif)](https://i.ibb.co/FWw3T3v/Sunset-On-A-Beach-GIF.gif)
+
 <h1 align="center">Hi 👋, I'm Kowiti Nelson</h1>
 <h3 align="center">A passionate junior software developer</h3>
 <img align="right" alt="coding" width="400" src="https://i.ibb.co/09m3GZt/download.jpg">
