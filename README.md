@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kowitinelson2&label=Profile%20views&color=0e75b6&style=flat" alt="kowitinelson2" /> </p>
 
-- 🌱 I’m currently learning **Software Engineering at ALX**
+- 🌱 I’m currently learning **Software Engineering **
 
 - 📫 How to reach me **kowitinelson2@gmail.com**
 
